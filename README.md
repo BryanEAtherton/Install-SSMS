@@ -125,11 +125,11 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p> 
-14. 
+14. Right-click the Windows VM and select Properties. Then select Security, check Both failed and successful logins, then click Ok. 
 </p>
 <p>
-<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7lYUAoM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qmGOguA.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p> 

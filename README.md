@@ -111,7 +111,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 11. If done correclty, a message will appear confirming the command was succesfully executed. 
 </p>
 <p>
-<img src="https://i.imgur.com/kR8Ndq5.png" height="0%6" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kR8Ndq5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>

@@ -78,18 +78,55 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
-8.
+8. Give Network Services Full control. highlight Network Services, check the Full Control box, click Apply, then click Ok.
 </p>
 <p>
-<img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AipzmId.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+9. We will need to configure SSMS using the command shown in the slide here. Highlight and copy this command line. These instructions are listed on the website shown in slide 2.
+</p>
+<p>
+<img src="https://i.imgur.com/C7f87w2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+10. Open the Windows VM Command Prompt and select Run as Administrator. Then pasete the command from the previous slide and press Enter.
+</p>
+<p>
+<img src="https://i.imgur.com/MNrtrxg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ACqnphb.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+11. If done correclty, a message will appear confirming the command was succesfully executed. 
+</p>
+<p>
+<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-9.
+11. If done correclty, a message will appear confirming the command was succesfully executed. 
 </p>
 <p>
-<img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kR8Ndq5.png" height="0%6" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+12. 
+</p>
+<p>
+<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p> 
+13. 
+</p>
+<p>
+<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 

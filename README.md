@@ -133,28 +133,13 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p> 
-15. 
+15. Right-click the Windows VM and select Restart. Then verify the restart.
 </p>
 <p>
-<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/smRg7X3.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nVW7zUy.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p> 
-16. 
-</p>
-<p>
-<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p> 
-17. 
-</p>
-<p>
-<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
 
 
 [Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)

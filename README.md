@@ -57,26 +57,24 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
-5. 
+5. In Registry Editor, navigate to HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Security
 </p>
 <p>
-<img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZMDyWIa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p> 
 
 <p>
-6.
+6. Right Click on Security and select Permissions. 
 </p>
 <p>
-<img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P0xkDc2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-7.
+7. Select Add... from the permissions window, type Network Services in the open field, Click the Check Names box, then click Ok.
 </p>
 <p>
-<img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LdrGliY.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>

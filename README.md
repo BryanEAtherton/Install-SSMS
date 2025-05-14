@@ -13,6 +13,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 - Windows 10 
 - SQL Server Management System (SSMS)
 - Windows Registry Editor
+- Command Prompt
 
 
 <h2></h2>
@@ -38,7 +39,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
- 3. Select Install then Restart and allow the VM to restart.  You will need to Log back into the VM when complete.
+ 3. Select Install, then Restart and allow the VM to restart.  You will need to RDP back into the VM when complete.
 </p>
 <p>
 <img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -50,7 +51,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 <br />
 
 <p>   
-4. Log back into the Windows VM and open Windows Registry Editor.
+4. RDP back into the Windows VM and open Windows Registry Editor.
 </p>
 <p>
 <img src="https://i.imgur.com/2UpL70E.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -107,7 +108,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
-12. Opent the SSMS App.
+12. Open the SSMS App.
 </p>
 <p>
 <img src="https://i.imgur.com/TbWDN2p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -121,7 +122,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 <img src="https://i.imgur.com/p6P0cea.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
-[Click here to view the Disable Windows Firewall and install SQL Server section](https://github.com/BryanEAtherton/Disable-Windows-Firewall-and-install-SQL-Server)
+[Click here to view the install SQL Server section](https://github.com/BryanEAtherton/Install-SQL-Server/tree/main)
 </p>
 
 <p> 

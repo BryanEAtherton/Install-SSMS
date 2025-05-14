@@ -47,7 +47,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 [Click here to view instructions on how to create an Azure VM and access it using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
-</p>
+
 <br />
 
 <p>   
@@ -144,7 +144,8 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 
 
 [Click here to return to the Security Project 1 Homepage](https://github.com/BryanEAtherton/Security-Project-1)
-</p>
+
+<br />
 
 
 

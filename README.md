@@ -50,21 +50,21 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 <br />
 
 <p>   
-4. Repeat the process in step 2 for the Windows VM by deleting the RDP inbound rule.
+4. Log back into the Windows VM and open Windows Registry Editor.
 </p>
 <p>
-<img src="https://i.imgur.com/vYFfEl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2UpL70E.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-5. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
+5. 
 </p>
 <p>
 <img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
 
 <p>
- 3. Select Install then Restart and allow the VM to restart.  You will need to Log back into the VM when complete.
+6.
 </p>
 <p>
 <img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -72,7 +72,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
- 3. Select Install then Restart and allow the VM to restart.  You will need to Log back into the VM when complete.
+7.
 </p>
 <p>
 <img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -80,7 +80,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
- 3. Select Install then Restart and allow the VM to restart.  You will need to Log back into the VM when complete.
+8.
 </p>
 <p>
 <img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -88,7 +88,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
- 3. Select Install then Restart and allow the VM to restart.  You will need to Log back into the VM when complete.
+9.
 </p>
 <p>
 <img src="https://i.imgur.com/5kMc5bx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>

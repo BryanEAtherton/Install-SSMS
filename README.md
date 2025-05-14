@@ -100,22 +100,32 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
-11. If done correclty, a message will appear confirming the command was succesfully executed. 
-</p>
-<p>
-<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-11. If done correclty, a message will appear confirming the command was succesfully executed. 
+11. If done correclty, a message will appear confirming the command was succesfully executed. Close Command Prompt.
 </p>
 <p>
 <img src="https://i.imgur.com/kR8Ndq5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-12. 
+12. Opent the SSMS App.
+</p>
+<p>
+<img src="https://i.imgur.com/TbWDN2p.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p> 
+13. From the Authenticatin field select SQL Server Authenntification. Then login using the password we set on step 13 of the Install and configure SQL Server section.
+</p>
+<p>
+<img src="https://i.imgur.com/V2u3zzX.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p6P0cea.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+[Click here to view the Disable Windows Firewall and install SQL Server section](https://github.com/BryanEAtherton/Disable-Windows-Firewall-and-install-SQL-Server)
+</p>
+
+<p> 
+14. 
 </p>
 <p>
 <img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -123,7 +133,23 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p> 
-13. 
+15. 
+</p>
+<p>
+<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p> 
+16. 
+</p>
+<p>
+<img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DsHYHDc.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p> 
+17. 
 </p>
 <p>
 <img src="https://i.imgur.com/kR8Ndq5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>

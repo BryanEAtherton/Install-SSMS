@@ -72,7 +72,7 @@ Here we will install and set up SSMS on the Windows VM. This will provide anothe
 </p>
 
 <p>
-7. Select Add... from the permissions window, type Network Services in the open field, Click the Check Names box, then click Ok.
+7. Select Add... from the permissions window, type Network Service in the open field, click the Check Names box, then click Ok.
 </p>
 <p>
 <img src="https://i.imgur.com/LdrGliY.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
